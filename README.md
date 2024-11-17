@@ -69,9 +69,7 @@ Linear regression modeling for housing price prediction in King County, WA, USA,
 Libraries Utilized: Scikit-Learn, Pandas, Statsmodel, Numpy, Matplotlib, Seaborn
 
 
-### [ Pagina Web para administrar contratos de Internet: ](https://github.com/DataOnATangent/Yelp_API_ETL_Project)<br>
-EDA of Yelp API data for Flatiron School Data Science Immersive Program.<br>
-Libraries utilized: Pandas, Numpy, Matplotlib, Seaborn
+
 
 </p>
 
