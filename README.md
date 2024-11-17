@@ -60,16 +60,16 @@
 <p>
 
 ## 📝 Recent Projects
-### [ Using Dating Profiles to Predict Occupation: ](https://github.com/Wine03/verbflow_compar)<br>
+### [ Aplicacion Movil para ayudar a alumnos de Primaria en compresion lectura y actividades: ](https://github.com/Wine03/verbflow_compar)<br>
 Machine learning prediction model using logistic regression to predict a users observations using the various features used on their OKCupid dating profile. Data collected from OKCupid.com in the San Francisco Area.<br>
 Libraries Utilized: Scikit-Learn, Pandas, Statsmodel, Numpy, Matplotlib, Seaborn, Scipy
 
-### [ Kings County Housing Price Prediction: ](https://github.com/DataOnATangent/Kings_County_Seattle_Housing_Project)<br>
+### [ Aplicacion para generar contraseñas para diferentes aplicaciones: ](https://github.com/Wine03/Admin-contrase-as)<br>
 Linear regression modeling for housing price prediction in King County, WA, USA, which is the greater Seattle Area. <br>
 Libraries Utilized: Scikit-Learn, Pandas, Statsmodel, Numpy, Matplotlib, Seaborn
 
 
-### [ Yelp ETL Project Analysis: ](https://github.com/DataOnATangent/Yelp_API_ETL_Project)<br>
+### [ Pagina Web para administrar contratos de Internet: ](https://github.com/DataOnATangent/Yelp_API_ETL_Project)<br>
 EDA of Yelp API data for Flatiron School Data Science Immersive Program.<br>
 Libraries utilized: Pandas, Numpy, Matplotlib, Seaborn
 
