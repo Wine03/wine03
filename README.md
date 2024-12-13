@@ -61,16 +61,13 @@
 
 ## 📝 Recent Projects
 ### [ Aplicacion Movil para ayudar a alumnos de Primaria en compresion lectura y actividades: ](https://github.com/Wine03/verbflow_compar)<br>
-Machine learning prediction model using logistic regression to predict a users observations using the various features used on their OKCupid dating profile. Data collected from OKCupid.com in the San Francisco Area.<br>
-Libraries Utilized: Scikit-Learn, Pandas, Statsmodel, Numpy, Matplotlib, Seaborn, Scipy
+
+
 
 ### [ Aplicacion para generar contraseñas para diferentes aplicaciones: ](https://github.com/Wine03/Admin-contrase-as)<br>
-Linear regression modeling for housing price prediction in King County, WA, USA, which is the greater Seattle Area. <br>
-Libraries Utilized: Scikit-Learn, Pandas, Statsmodel, Numpy, Matplotlib, Seaborn
 
 
-
-
+### [ Pagina para administrar contratos de internet(Seccion de cliente y Administradores): ](https://github.com/MrCris-SC/conectat.git)<br>
 </p>
 
 <!--Contact Section--> 
@@ -81,7 +78,7 @@ Libraries Utilized: Scikit-Learn, Pandas, Statsmodel, Numpy, Matplotlib, Seaborn
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
   
-<a href="mailto:kirannaragund197@gmail.com" target="_blank">
+<a href="mailto:canjavier5@gmail.com" target="_blank">
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt=kirannaragund197@gmail.com mail style="margin-bottom: 5px;" />
 </a>
 
